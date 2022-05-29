@@ -1,0 +1,12 @@
+plugins {
+    id 'java-library'
+    id 'java-gradle-plugin'
+    id 'maven-publish'
+}
+
+java.sourceCompatibility = 17
+java.targetCompatibility = 17
+
+version '0.1.0-ALPHA'
+
+group = 'com.github.batmanatorul'
