@@ -7,6 +7,6 @@ plugins {
 java.sourceCompatibility = 17
 java.targetCompatibility = 17
 
-version '0.1.0-ALPHA'
+version '0.1.5'
 
 group = 'com.github.batmanatorul'
