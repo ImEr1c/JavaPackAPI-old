@@ -9,7 +9,6 @@ import java.lang.annotation.Target;
 @Target(ElementType.TYPE)
 public @interface Datapack {
     String id();
-    String name();
     String description();
 
     @Retention(RetentionPolicy.RUNTIME)
